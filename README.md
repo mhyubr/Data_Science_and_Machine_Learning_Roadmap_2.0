@@ -21,11 +21,16 @@ Selamat datang di repository `Data_Science_and_Machine_Learning_Roadmap_2.0`! In
 11. [Classic Time Series/Data](11%20-%20Classic%20Time%20Series-data)
 99. [Other](99%20-%20Other) (_Sumber belajar lainnya, seperti Udemy, Coursera, Laboratorium, dll._)
 
-## Tentang Repository Ini
+## Tentang Saya
 
-Silakan jelajahi folder-folder di atas untuk memulai pembelajaran Anda. Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk membuat *issue* atau menghubungi saya. Semoga repository ini membantu Anda dalam perjalanan belajar Data Science dan Machine Learning!
+Saya adalah seorang _enthusiasm_ di dunia Data Science dan Machine Learning yang tertarik untuk terus belajar dan mengembangkan keterampilan saya. Anda dapat menemukan saya di platform berikut:
 
-## Daftar Sumber
+- [LinkedIn](https://www.linkedin.com/in/mhyubr/)
+- [Kaggle](https://www.kaggle.com/muhammadayyubramli)
+
+Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi atau berkolaborasi dalam proyek-proyek terkait Data Science dan Machine Learning. Semoga repository ini membantu Anda dalam perjalanan belajar Anda!
+
+## Daftar Sumber Belajar
 
 - [Jcop untuk Indonesia](https://www.youtube.com/@JCOpUntukIndonesia)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
