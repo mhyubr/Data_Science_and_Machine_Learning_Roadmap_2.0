@@ -9,29 +9,28 @@ Selamat datang di repository `Data_Science_and_Machine_Learning_Roadmap_2.0`! In
 ## Daftar Isi
 
 1. [Introduction to Machine Learning](01%20-%20Introduction%20to%20Machine%20Learning)
-2. [Supervised Learning](#supervised-learning)
-3. [Unstructured Data](#unstructured-data)
-4. [Deep Learning](#deep-learning)
-5. [Unsupervised Learning](#unsupervised-learning)
-6. [Deep Unsupervised Learning](#deep-unsupervised-learning)
-7. [Recommendation System](#recommendation-system)
-8. [Flask API](#flask-api)
-9. [Word Vector](#word-vector)
-10. [GAN (Generative Adversarial Networks)](#gan-generative-adversarial-networks)
-11. [Classic Time Series/Data](#classic-time-seriesdata)
-99. [Lainnya](#lainnya)
+2. [Supervised Learning](02%20-%20Supervised%20Learning)
+3. [Unstructured Data](03%20-%20Unstructured%20Data)
+4. [Deep Learning](04%20-%20Deep%20Learning)
+5. [Unsupervised Learning](03%20-%20Unstructured%20Data)
+6. [Deep Unsupervised Learning](05%20-%20Unsupervised%20Learning)
+7. [Recommendation System](07%20-%20Recommendation%20System)
+8. [Flask API](08%20-%20Flask%20API)
+9. [Word Vector](09%20-%20Word%20Vector)
+10. [GAN (Generative Adversarial Networks)](10%20-%20GAN%20(Generative%20Adversarial%20Networks))
+11. [Classic Time Series/Data](11%20-%20Classic%20Time%20Series-data)
+99. [Other](99%20-%20Other) (_Berisikan sumber belajar lainnya, seperti Udemy, Coursera, Laboratorium, dll._)
 
 ## Tentang Repository Ini
 
 Silakan jelajahi folder-folder di atas untuk memulai pembelajaran Anda. Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk membuat *issue* atau menghubungi saya. Semoga repository ini membantu Anda dalam perjalanan belajar Data Science dan Machine Learning!
 
-## Kontribusi
+## Daftar Sumber
 
-Jika Anda ingin berkontribusi dengan menambahkan materi atau memperbaiki sesuatu, saya sangat menghargainya. Silakan buat *pull request* dengan perubahan yang Anda inginkan.
-
-## Lisensi
-
-Repository ini dilisensikan di bawah [MIT License](LICENSE).
+- [Jcop untuk Indonesia](https://www.youtube.com/@JCOpUntukIndonesia)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+- [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/)
+- [EDE Laboratory](https://www.instagram.com/lifeatedelab/)
 
 ---
 
