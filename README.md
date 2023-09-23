@@ -1,14 +1,14 @@
-# Referensi Belajar Data Science dan Machine Learning
+# Referensi Belajar Data Science dan Machine Learning v2.0
 
 ![Last Commit](https://img.shields.io/github/last-commit/mhyubr/Data_Science_and_Machine_Learning_Roadmap_2.0)
 ![GitHub Last Month Commits](https://img.shields.io/github/commit-activity/m/mhyubr/Data_Science_and_Machine_Learning_Roadmap_2.0)
 ![GitHub Last Week Commits](https://img.shields.io/github/commit-activity/w/mhyubr/Data_Science_and_Machine_Learning_Roadmap_2.0)
 
-Selamat datang di repository ini! Ini adalah kumpulan referensi belajar untuk Data Science dan Machine Learning yang saya rangkum dari berbagai sumber. Repository ini juga berfungsi sebagai panduan (roadmap) saya selama belajar di bidang ini. Saya berharap ini dapat membantu Anda dalam perjalanan belajar Anda.
+Selamat datang di repository `Data_Science_and_Machine_Learning_Roadmap_2.0`! Ini adalah kumpulan referensi belajar saya untuk Data Science dan Machine Learning yang saya rangkum dari berbagai sumber. Repository ini juga berfungsi sebagai panduan (roadmap) saya selama belajar di bidang ini. Saya berharap ini dapat membantu Anda dalam perjalanan belajar Anda.
 
 ## Daftar Isi
 
-1. [Introduction to Machine Learning](https://github.com/mhyubr/Data_Science_and_Machine_Learning_Roadmap_2.0/tree/main/01%20-%20Introduction%20to%20Machine%20Learning)
+1. [Introduction to Machine Learning](#01---Introduction-to-Machine-Learning)
 2. [Supervised Learning](#supervised-learning)
 3. [Unstructured Data](#unstructured-data)
 4. [Deep Learning](#deep-learning)
