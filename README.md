@@ -8,7 +8,7 @@ Selamat datang di repository `Data_Science_and_Machine_Learning_Roadmap_2.0`! In
 
 ## Daftar Isi
 
-1. [Introduction to Machine Learning](#01---Introduction-to-Machine-Learning)
+1. [Introduction to Machine Learning](01%20-%20Introduction%20to%20Machine%20Learning)
 2. [Supervised Learning](#supervised-learning)
 3. [Unstructured Data](#unstructured-data)
 4. [Deep Learning](#deep-learning)
