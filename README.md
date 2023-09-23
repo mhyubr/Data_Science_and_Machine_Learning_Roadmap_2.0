@@ -1,1 +1,2 @@
-# 01_DS_ML_Python_Fundamental
+# Referensi Belajar Data Science dan Machine Learning
+Referensi belajar di atas, saya rangkum dari berbagai sumber belajar. Sekaligus sebagai `roadmap` saya selama belajar mengenai **Data Science** dan **Machine Learning**.
