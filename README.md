@@ -19,7 +19,7 @@ Selamat datang di repository `Data_Science_and_Machine_Learning_Roadmap_2.0`! In
 9. [Word Vector](09%20-%20Word%20Vector)
 10. [GAN (Generative Adversarial Networks)](10%20-%20GAN%20(Generative%20Adversarial%20Networks))
 11. [Classic Time Series/Data](11%20-%20Classic%20Time%20Series-data)
-99. [Other](99%20-%20Other) (_Berisikan sumber belajar lainnya, seperti Udemy, Coursera, Laboratorium, dll._)
+99. [Other](99%20-%20Other) (_Sumber belajar lainnya, seperti Udemy, Coursera, Laboratorium, dll._)
 
 ## Tentang Repository Ini
 
@@ -36,8 +36,8 @@ Silakan jelajahi folder-folder di atas untuk memulai pembelajaran Anda. Jika And
 
 Terima kasih sudah mengunjungi repository ini! 😊
 
-![Follow me on GitHub](https://img.shields.io/github/followers/username?style=social)
+![Follow me on GitHub](https://img.shields.io/github/followers/mhyubr?style=social)
 
-[Link ke Profil Saya](https://github.com/username)
+[Link ke Profil Saya](https://github.com/mhyubr)
 
 **Terakhir diperbarui:** README.md, 25 minutes ago
