@@ -40,4 +40,4 @@ Terima kasih sudah mengunjungi repository ini! 😊
 
 [Link ke Profil Saya](https://github.com/mhyubr)
 
-**Terakhir diperbarui:** README.md, 25 minutes ago
+**Terakhir diperbarui:** ![Realtime](https://img.shields.io/github/last-commit/mhyubr/Data_Science_and_Machine_Learning_Roadmap_2.0?label=Realtime)
