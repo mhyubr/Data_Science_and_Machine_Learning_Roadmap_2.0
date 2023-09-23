@@ -25,8 +25,8 @@ Selamat datang di repository `Data_Science_and_Machine_Learning_Roadmap_2.0`! In
 
 Saya adalah seorang _enthusiasm_ di dunia Data Science dan Machine Learning yang tertarik untuk terus belajar dan mengembangkan keterampilan saya. Anda dapat menemukan saya di platform berikut:
 
-- [LinkedIn](https://www.linkedin.com/in/mhyubr/)
-- [Kaggle](https://www.kaggle.com/muhammadayyubramli)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mhyubr/)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/muhammadayyubramli)
 
 Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi atau berkolaborasi dalam proyek-proyek terkait Data Science dan Machine Learning. Semoga repository ini membantu Anda dalam perjalanan belajar Anda!
 
