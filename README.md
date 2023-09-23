@@ -35,6 +35,7 @@ Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi atau berkolaborasi
 - [Jcop untuk Indonesia](https://www.youtube.com/@JCOpUntukIndonesia)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/)
+- [AutoGluon](https://auto.gluon.ai/stable/index.html)
 - [EDE Laboratory](https://www.instagram.com/lifeatedelab/)
 
 ---
@@ -45,4 +46,4 @@ Terima kasih sudah mengunjungi repository ini! 😊
 
 [Link ke Profil Saya](https://github.com/mhyubr)
 
-**Terakhir diperbarui:** ![Realtime](https://img.shields.io/github/last-commit/mhyubr/Data_Science_and_Machine_Learning_Roadmap_2.0?label=Realtime)
+**Terakhir diperbarui:** ![Last Update](https://img.shields.io/github/last-commit/mhyubr/Data_Science_and_Machine_Learning_Roadmap_2.0?label=Realtime)
